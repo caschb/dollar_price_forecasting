@@ -5,4 +5,6 @@ The purpose of this notebook is to try and predict the price of the USD in CRC u
 ## LSTM Forecasting
 
 The LSTM model is based on the following references:
+
 - https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
+- https://youtu.be/PuZY9q-aKLw
